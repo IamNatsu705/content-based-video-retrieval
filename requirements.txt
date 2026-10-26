@@ -1,0 +1,14 @@
+# Core
+numpy
+opencv-python-headless
+scikit-learn
+
+# Database and API
+psycopg[binary]
+pgvector
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# Development
+pytest
